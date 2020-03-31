@@ -39,8 +39,8 @@ baseurl: "/from-knowledge-2-love" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: Fragoso_Y_T
+    github: JCSolis96
 
 # Set this to true to get LaTeX math equation support
 use_math: 
